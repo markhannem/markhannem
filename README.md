@@ -1,11 +1,13 @@
 - 👋 Hi, I’m @markhannem
-Im currently in semester 1/4 at Keyin College's Software Development Progam 
+Im currently in semester 2/4 at Keyin College's Software Development Progam 
 - 👀 I’m interested in ...
 Technology,Coding,Gaming and Cooking
 - 🌱 I’m currently learning ...
-Python,Bash and Git
+HTML,CSS,JS,REACT
+- 👀 Already learned ...
+python, Git, bash, photoshop, adobe after effects, microsoft office
 - 💞️ I’m looking to collaborate on ...
-Beginner python projects
+Beginner front end projects
 - 📫 How to reach me ...
 markhannem3@gmail.com
 
