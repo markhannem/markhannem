@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @markhannem
-Im currently in semester 3/4 at Keyin College's Software Development Progam 
+Im currently in semester 3/4 at Keyin College's Software Development Program 
 - 👀 I’m interested in ...
 Technology, Coding, Gaming and Cooking
 - 🌱 I’m currently learning ...
