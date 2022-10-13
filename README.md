@@ -17,7 +17,7 @@ BackEnd Development, Node.js
 - Excel
 - Word
 - 💞️ I’m looking to collaborate on ...
-Beginner front end projects
+Beginner coding and data projects
 - 📫 How to reach me ...
 markhannem3@gmail.com
 
