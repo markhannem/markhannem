@@ -3,7 +3,7 @@ Im currently in semester 3/4 at Keyin College's Software Development Program
 - 👀 I’m interested in ...
 Technology, Coding, Gaming and Cooking
 - 🌱 I’m currently learning ...
-BackEnd Development, Node.js
+BackEnd Development, Node.js, Express, PostgreSQL and MongoDB
 - 👀 Already learned:
 - Python
 - Git
