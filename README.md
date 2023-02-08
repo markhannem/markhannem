@@ -1,21 +1,17 @@
 - 👋 Hi, I’m @markhannem
-Im currently in semester 3/4 at Keyin College's Software Development Program 
+Im currently in my final semester at Keyin College's Software Development Program 
 - 👀 I’m interested in ...
 Technology, Coding, Gaming and Cooking
 - 🌱 I’m currently learning ...
-BackEnd Development, Node.js, Express, PostgreSQL and MongoDB
+Java, Unit Testing, DevOps, Springboot
 - 👀 Already learned:
 - Python
 - Git
-- Bash
-- HTML
-- CSS
-- JS
-- REACT
-- Photoshop
-- After Effects
-- Excel
-- Word
+- Front End Development: HTML, CSS, JS, React
+- Back End Development: Node.js, Express, PostgreSQL, MongoDB, MERN/PERN
+
+Other Technologies: Photoshop, After Effects, Excel, Word
+
 - 💞️ I’m looking to collaborate on ...
 Beginner coding and data projects
 - 📫 How to reach me ...
