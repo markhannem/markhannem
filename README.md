@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @markhannem
 Im currently in my final semester at Keyin College's Software Development Program 
 - 👀 I’m interested in ...
-Technology, Coding, Gaming and Cooking
+Technology! and Coding!
 - 🌱 I’m currently learning ...
 Java, Unit Testing, DevOps, Springboot
 - 👀 Already learned:
