@@ -8,7 +8,8 @@ Java, Unit Testing, DevOps, Springboot
 - Python
 - Git
 - Front End Development: HTML, CSS, JS, React
-- Back End Development: Node.js, Express, PostgreSQL, MongoDB, MERN/PERN
+- Back End Development: Node.js, Express, PostgreSQL, MongoDB
+- Full Stack: MERN/PERN
 
 Other Technologies: Photoshop, After Effects, Excel, Word
 
